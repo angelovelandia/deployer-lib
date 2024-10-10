@@ -1,6 +1,6 @@
 {
   "name": "deployer-lib",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "CLI tool to efficiently build and deploy frontend projects with optional image exclusions",
   "main": "index.js",
   "bin": {
