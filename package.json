@@ -1,6 +1,6 @@
 {
   "name": "deployer-lib",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "CLI tool to efficiently build and deploy frontend projects with optional image exclusions",
   "main": "index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "node bin/deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/deployer-lib.git"
   },
   "dependencies": {
     "chalk": "5.3.0",
@@ -34,6 +38,10 @@
     "javascript",
     "devops"
   ],
-  "author": "Angelo Velandia",
-  "license": "MIT"
+  "author": "Angelo Velandia <velandia_angelo@outlook.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/angelovelandia/deployer-lib",
+  "bugs": {
+    "url": "https://github.com/angelovelandia/deployer-lib/issues"
+  }
 }
