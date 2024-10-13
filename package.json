@@ -1,8 +1,9 @@
 {
   "name": "deployer-lib",
-  "version": "2.0.3",
+  "version": "5.0.4",
   "description": "CLI tool to efficiently build and deploy frontend projects with optional image exclusions",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "deployer-lib": "bin/deploy.js"
   },
@@ -18,7 +19,8 @@
     "child_process": "1.0.2",
     "inquirer": "8.2.6",
     "log-symbols": "7.0.0",
-    "ora": "8.1.0"
+    "ora": "8.1.0",
+    "tar": "^7.4.3"
   },
   "keywords": [
     "deploy",

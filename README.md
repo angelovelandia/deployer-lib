@@ -1,6 +1,6 @@
 # Deployer Lib
 
-![Deployer Lib](https://img.shields.io/badge/Deployer%20Lib-v2.0.2-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v20.10.0-brightgreen.svg)
+![Deployer Lib](https://img.shields.io/badge/Deployer%20Lib-v5.0.4-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v20.10.0-brightgreen.svg)
 
 Deployer Lib is a command line tool that allows you to easily compile and deploy your frontend projects to remote paths. The library uses `npm` or `yarn` to manage dependencies and provides options to include or exclude images during deployment.
 
@@ -58,6 +58,10 @@ Enter the local path of the build (example: build/):
 Do you want to upload images (jpg, png, gif, svg)? 
 > Sí
 ```
+
+## Second time
+
+If you have already uploaded your compiled file once, you can choose the previous configuration you used, which was saved on the first run in the file **deployer.lib.answers.json**
 
 ## Logs
 During execution, you will see clear and colorful logs indicating the progress of each step, from compilation to deployment.
