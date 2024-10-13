@@ -1,6 +1,6 @@
 # Deployer Lib
 
-![Deployer Lib](https://img.shields.io/badge/Deployer%20Lib-v5.0.5-blue.svg) ![Node.js](https://img.shields.io/badge/Node.js-v20.10.0-brightgreen.svg)
+![Deployer Lib](https://img.shields.io/badge/Deployer%20Lib-v5.0.6-blue.svg)
 
 Deployer Lib is a command line tool that allows you to easily compile and deploy your frontend projects to remote paths. The library uses `npm` or `yarn` to manage dependencies and provides options to include or exclude images during deployment.
 
