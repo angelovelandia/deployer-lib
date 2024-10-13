@@ -63,6 +63,8 @@ Do you want to upload images (jpg, png, gif, svg)?
 
 If you have already uploaded your compiled file once, you can choose the previous configuration you used, which was saved on the first run in the file **deployer.lib.answers.json**
 
+![image](https://github.com/user-attachments/assets/31c35809-a6eb-4a31-abf6-4b30ce6d1c74)
+
 ## Logs
 During execution, you will see clear and colorful logs indicating the progress of each step, from compilation to deployment.
 
