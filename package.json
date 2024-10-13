@@ -1,6 +1,6 @@
 {
   "name": "deployer-lib",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "CLI tool to efficiently build and deploy frontend projects with optional image exclusions",
   "main": "index.js",
   "type": "module",
@@ -20,7 +20,7 @@
     "inquirer": "8.2.6",
     "log-symbols": "7.0.0",
     "ora": "8.1.0",
-    "tar": "^7.4.3"
+    "tar": "7.4.3"
   },
   "keywords": [
     "deploy",
